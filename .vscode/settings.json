@@ -1,0 +1,8 @@
+{
+  "editor.defaultFormatter": "DEVSENSE.intelli-php-vscode",
+  "editor.formatOnSave": true,
+  "[php]": {
+    "editor.defaultFormatter": "DEVSENSE.phptools-vscode"
+  },
+  "editor.formatOnPaste": true
+}
